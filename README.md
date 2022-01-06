@@ -9,4 +9,4 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Full credits 
-[@1danish-00](https://github.com/1Danish-00/CompressorBot)
+[@1danish-00 Compressor Bot](https://github.com/1Danish-00/CompressorBot)
